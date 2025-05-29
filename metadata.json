@@ -1,0 +1,6 @@
+{
+  "name": "Image to C Array Converter",
+  "description": "A web application to convert uploaded images into a C-style byte array representation, resizing the largest dimension to 1024px and converting to 4-bit grayscale.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
